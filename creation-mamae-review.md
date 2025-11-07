@@ -1,5 +1,5 @@
 ---
-title: Criação e inicio
+title: Creation 
 date: 2025-10-27
 excerpt: Uma breve descrição do post
 tags: [tech, javascript, typescript, Firebase]
