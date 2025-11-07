@@ -1,5 +1,5 @@
 ---
-title: Criação do mamãe review
+title: Dashboard
 date: 2025-11-07
 excerpt: Uma breve descrição do post
 tags: [tech, javascript, typescript, Firebase]

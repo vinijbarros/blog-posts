@@ -1,12 +1,13 @@
 ---
-title: Criação do mamãe review
+title: Criação e inicio
 date: 2025-10-27
 excerpt: Uma breve descrição do post
 tags: [tech, javascript, typescript, Firebase]
 ---
 
 # Conteúdo do Post
-[Português]
+
+🇧🇷  Criação e inicio 
 Em uma conversa com amigos, sendo uma delas grávida, surgiu um tema que me chamou a atenção: quais marcas e produtos realmente valem a pena durante e depois da gravidez?
 A troca de experiências foi tão boa que alguém comentou sobre criar uma planilha compartilhada, onde cada mãe pudesse registrar as marcas, avaliações, preços e locais de compra.
 Eu pensei que seria interessante transformar isso em algo maior, algo que facilitasse esse compartilhamento de forma mais prática e acessível.
@@ -16,7 +17,8 @@ Além de ser uma iniciativa que achei muito legal de colocar em prática, estou 
 Atualmente, estou utilizando TypeScript, Next.js 15 com App Router e Server Components, React 18 e Node.js
 
 Minha ideia é compartilhar semanalmente a evolução do desenvolvimento e, ao final, disponibilizar o app para quem quiser usar.
-[English]
+
+🇬🇧 🇺🇸 Creation
 During a conversation with some friends — one of whom was pregnant — a topic came up that really caught my attention: which brands and products are actually worth it during and after pregnancy?
 
 The exchange of experiences was so good that someone suggested creating a shared spreadsheet where each mom could record brands, reviews, prices, and places to buy.
