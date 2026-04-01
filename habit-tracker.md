@@ -1,8 +1,8 @@
 ---
-title: Dashboard
-date: 2025-11-07
-excerpt: Uma breve descrição do post
-tags: [tech, javascript, typescript, Firebase]
+title: Habit-Tracker
+date: 2026-04-01
+excerpt: App de Habitos
+tags: [NodeJS, typescript, Prisma, JWT]
 ---
 
 # Conteúdo do Post
