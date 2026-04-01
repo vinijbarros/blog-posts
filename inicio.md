@@ -1,20 +1,34 @@
 ---
-title:  Mamãe-review Descrition
+title: Mamãe Review Description
 date: 2025-10-23
-excerpt: Uma breve descrição do post
-tags: [tech, javascript, typescript, Portuguese, English]
+excerpt: Apresentação inicial do projeto Mamãe Review.
+tags: [Next.js, TypeScript, React, Node.js, Portuguese, English]
 ---
 
-# Conteúdo do Post
-🇧🇷 
-Atualmente estou desenvolvendo um app, como projeto pessoal, o Mamãe-review. Com o objetivo, em primeiro plano, de ajudar mães a trocar informações e recomendações de forma simples, colaborativa e confiável.
-Além de ser uma iniciativa que achei muito legal de colocar em prática, estou aproveitando o projeto para aprender e aplicar novas tecnologias.
+# Mamãe Review
 
-Atualmente, estou utilizando TypeScript, Next.js 15 com App Router e Server Components, React 18 e Node.js.
+## PT-BR
 
-🇬🇧 🇺🇸
-I’m currently developing a personal project called Mamãe Review — an app designed primarily to help mothers exchange information and recommendations in a simple, collaborative, and trustworthy way.
+Atualmente estou desenvolvendo um app, como projeto pessoal, chamado Mamãe Review, com o objetivo principal de ajudar mães a trocar informações e recomendações de forma simples, colaborativa e confiável.
 
-Besides being a project I found really exciting to bring to life, I’m also using it as an opportunity to learn and apply new technologies.
+Além de ser uma iniciativa que achei muito interessante de colocar em prática, também estou aproveitando o projeto para aprender e aplicar novas tecnologias.
 
-Right now, I’m working with TypeScript, Next.js 15 with App Router and Server Components, React 18, and Node.js.
+### Tecnologias atuais
+
+- TypeScript
+- Next.js 15 com App Router e Server Components
+- React 18
+- Node.js
+
+## EN
+
+I am currently developing a personal project called Mamãe Review, an app designed primarily to help mothers exchange information and recommendations in a simple, collaborative, and trustworthy way.
+
+Besides being a project I found genuinely exciting to bring to life, I am also using it as an opportunity to learn and apply new technologies.
+
+### Current technologies
+
+- TypeScript
+- Next.js 15 with App Router and Server Components
+- React 18
+- Node.js
